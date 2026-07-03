@@ -1,0 +1,6 @@
+com\example\educationinterface\repository\EnrollmentRepository.class
+com\example\educationinterface\entity\User$Role.class
+com\example\educationinterface\dto\QuizSubmitRequest.class
+com\example\educationinterface\entity\Course.class
+com\example\educationinterface\entity\Enrollment.class
+com\example\educationinterface\entity\User.class
